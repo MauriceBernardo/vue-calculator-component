@@ -1,6 +1,6 @@
 {
-  "name": "@mauricebernardo/vue-calculator-test",
-  "version": "1.0.0",
+  "name": "@mauricebernardo/vue-calculator",
+  "version": "1.0.3",
   "private": false,
   "main": "./dist/myLib.umd.js",
   "scripts": {
