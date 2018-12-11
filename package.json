@@ -1,10 +1,10 @@
 {
   "name": "@mauricebernardo/vue-calculator",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "private": false,
   "main": "./dist/myLib.umd.js",
   "scripts": {
-    "build-bundle": "vue-cli-service build --target lib --name myLib ./src/components/index.js",
+    "build-bundle": "vue-cli-service build --target lib --name myLib ./src/components/Calculator.vue",
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint"
