@@ -1,6 +1,6 @@
 {
   "name": "@mauricebernardo/vue-calculator",
-  "version": "1.0.4",
+  "version": "1.0.6",
   "private": false,
   "main": "./dist/myLib.umd.js",
   "scripts": {
@@ -48,16 +48,10 @@
     "not ie <= 8"
   ],
   "files": [
-
     "dist/*",
-  
     "src/*",
-  
     "public/*",
-  
     "*.json",
-  
     "*.js"
-  
   ]
 }

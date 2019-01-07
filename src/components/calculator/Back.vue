@@ -8,7 +8,7 @@
 <script>
 import Basebutton from './Basebutton.vue'
 export default {
-  name: 'Clear',
+  name: 'Back',
   components: {
     Basebutton
   },
